@@ -37,9 +37,9 @@
     },
     
     "MODE": {
-      "description": "Select Your Bot Work Type Public-Private-Inbox-Group",
+      "description": "Select Your Bot Work Type -Private-Inbox-Group",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     
     "ALWAYS_ONLINE": {
