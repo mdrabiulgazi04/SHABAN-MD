@@ -33,7 +33,7 @@
     "PREFIX": {
       "description": "Paste Your Bot Prefix Note! Don't Apply Null",
       "required": false,
-      "value": "on"
+      "value": "true"
     },
     
     "MODE": {
@@ -45,31 +45,31 @@
     "ALWAYS_ONLINE": {
       "description": "Make It true If Want Always Online",
       "required": true,
-      "value": "on"  
+      "value": "true"  
     },   
    
     "AUTO_STATUS_SEEN": {
       "description": "Make It true For Automatic Status Seen",
       "required": true,
-      "value": "on"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "Make It true For Automatic Status Reaction Or Like",
       "required": true,
-      "value": "on"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_REPLY": {
       "description": "Make It true For Auto Reply Msg On Status Seen",
       "required": true,
-      "value": "on"
+      "value": ""
     }, 
     
     "AUTO_CHATBOT": {
       "description": "Make true AutoChatBot On",
       "required": true,
-      "value": "on"
+      "value": ""
     }, 
 
     "AUTO_STATUS_MSG": {
@@ -87,49 +87,49 @@
     "ANTI_LINK": {
       "description": "Make It true If You Want Bot Auto Remove link For Group",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
     
     "ADMIN_EVENTS": {
       "description": "Make It true If Want Know Who Promote Or Demote A Member",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "Make It true If Want Goodbye And Welcome Message In Groups",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
      
     "ANTI_CALL": {
       "description": "Make It true If You Want Bot Auto Call Rejected",
       "required": true,
-      "value": "on"
+      "value": "true"
     }, 
     
     "AUTO_RECORDING": {
       "description": "Make It true If You Want Auto Faik Recoding",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make It true If You Want Auto Faik Typing",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
 
     "AUTO_REACT": {
       "description": "Make It true If You Want React On Every Message",
       "required": true,
-      "value": "on"
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
       "description": "Make It true If You Want Hearts Reactions",
       "required": true,
-      "value": "on"
+      "value": "true"
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
@@ -147,13 +147,13 @@
     "ANTI_DELETE": {
       "description": "Set true For Show Deleted Messages",
       "required": true,
-      "value": "on"  
+      "value": "true"  
     },
 
     "READ_MESSAGE": {
       "description": "Make It true If You Want Bot Read Your All Measage Just Now",
       "required": true,
-      "value": "on"
+      "value": "true"
     }
   },
   "buildpacks": [
